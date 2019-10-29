@@ -19,9 +19,6 @@ img {
 
 }
 
-img:hover {
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
 }
 
 h1, h2 {
