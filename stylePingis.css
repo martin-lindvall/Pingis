@@ -9,16 +9,15 @@ body {
     width: 45em;
 
 }
-
+.imgPingPong {
+    margin-top: 25px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
 img {
     max-width: 100%;
-    height: auto:
-    border: 8px solid black;
-    border-radius: 20px;
-    padding: 5px;
-
-}
-
+    height: auto;
 }
 
 h1, h2 {
@@ -29,4 +28,8 @@ h1, h2 {
 h3 {
     margin-top: 30px;
     margin-bottom: 0px;
+}
+
+.wikitable {
+    margin-bottom: 70px;
 }
