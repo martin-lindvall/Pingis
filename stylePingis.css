@@ -19,11 +19,6 @@ img {
 
 }
 
-img:hover {
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-}
-
 h1, h2 {
     margin-top: 40px;
     margin-bottom: 0px;
